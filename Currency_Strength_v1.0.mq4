@@ -2,7 +2,7 @@
 //|                                       Currency Strength v1.0.mq4 |
 //|                                                      25-Jan-2017 |
 //+------------------------------------------------------------------+
-
+// test 1
 
 //--- input parameters
 extern double TradingLots=0.01;
